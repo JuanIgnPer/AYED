@@ -1,0 +1,4 @@
+﻿  ConsoleApplication16.cpp
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication16\ConsoleApplication16\vectores.hpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication16\ConsoleApplication16\ConsoleApplication16.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
+  ConsoleApplication16.vcxproj -> C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication16\Debug\ConsoleApplication16.exe

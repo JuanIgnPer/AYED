@@ -1,0 +1,5 @@
+﻿  ConsoleApplication9.cpp
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication9\ConsoleApplication9\vectores.hpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
+  vectores.cpp
+  ConsoleApplication9.vcxproj -> C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe

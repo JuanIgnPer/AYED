@@ -1,0 +1,14 @@
+﻿  vectores.cpp
+  ConsoleApplication7.cpp
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(10,5): error C2065: 'pais': identificador no declarado
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(10,10): error C2146: error de sintaxis: falta ';' delante del identificador 'velocidad'
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(10,10): error C2065: 'velocidad': identificador no declarado
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(15,46): error C2065: 'velocidad': identificador no declarado
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(15,24): error C3861: 'buscarMaximaVelocidad': no se encontró el identificador
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(16,46): error C2065: 'velocidad': identificador no declarado
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(16,24): error C3861: 'buscarMinimaVelocidad': no se encontró el identificador
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(17,63): error C2065: 'velocidad': identificador no declarado
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(18,63): error C2065: 'velocidad': identificador no declarado
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(19,51): error C2065: 'velocidad': identificador no declarado
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(19,22): error C3861: 'sacarPromedioVelocidadMaxima': no se encontró el identificador
+  Generando código...

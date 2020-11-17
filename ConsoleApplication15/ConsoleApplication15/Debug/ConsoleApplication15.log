@@ -1,0 +1,8 @@
+﻿  ConsoleApplication15.cpp
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication15\ConsoleApplication15\vectores.hpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication15\ConsoleApplication15\ConsoleApplication15.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
+  vectores.cpp
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication15\ConsoleApplication15\vectores.hpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
+C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication15\ConsoleApplication15\vectores.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
+  Generando código...
+  ConsoleApplication15.vcxproj -> C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication15\Debug\ConsoleApplication15.exe
