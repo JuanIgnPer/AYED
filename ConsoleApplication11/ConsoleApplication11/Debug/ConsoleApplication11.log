@@ -1,8 +1,0 @@
-﻿  ConsoleApplication11.cpp
-C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication11\ConsoleApplication11\vectores.hpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
-C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
-  vectores.cpp
-C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication11\ConsoleApplication11\vectores.hpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
-C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication11\ConsoleApplication11\vectores.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
-  Generando código...
-  ConsoleApplication11.vcxproj -> C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication11\Debug\ConsoleApplication11.exe

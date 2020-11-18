@@ -1,4 +1,0 @@
-﻿  ConsoleApplication18.cpp
-C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
-C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
-  ConsoleApplication18.vcxproj -> C:\Users\usuario\Desktop\Algoritmos\repo\ConsoleApplication18\Debug\ConsoleApplication18.exe

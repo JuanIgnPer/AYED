@@ -1,4 +1,0 @@
-﻿  ConsoleApplication27.cpp
-C:\Users\usuario\Desktop\UTN\Algoritmos\repo\Headers\dinamica.hpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
-C:\Users\usuario\Desktop\UTN\Algoritmos\repo\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
-  ConsoleApplication27.vcxproj -> C:\Users\usuario\Desktop\UTN\Algoritmos\repo\ConsoleApplication27\Debug\ConsoleApplication27.exe
