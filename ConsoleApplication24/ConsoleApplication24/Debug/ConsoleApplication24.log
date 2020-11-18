@@ -1,4 +1,0 @@
-﻿  ConsoleApplication24.cpp
-C:\Users\usuario\Desktop\UTN\Algoritmos\repo\Headers\dinamica.hpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
-C:\Users\usuario\Desktop\UTN\Algoritmos\repo\ConsoleApplication24\ConsoleApplication24\ConsoleApplication24.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
-  ConsoleApplication24.vcxproj -> C:\Users\usuario\Desktop\UTN\Algoritmos\repo\ConsoleApplication24\Debug\ConsoleApplication24.exe
