@@ -7,7 +7,6 @@ int main()
     /* 1. Imitar el funcionamiento de una cola utilizando una lista enlazada.*/
     cout << "----------------------------" << endl;
     cout << "Ejercicio 1" << endl;
-    /*
     Nodo* lista = NULL;
     encolarUsandoLista(lista, 12);
     encolarUsandoLista(lista, 6);
@@ -24,6 +23,7 @@ int main()
         cout << aux->info << endl;
         aux = aux->sig;
     }
+    /*
     */
 
     

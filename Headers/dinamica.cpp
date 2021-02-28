@@ -686,7 +686,7 @@ int calculoPolacaInversa(char vec[], int len) {
 }
 /*Ejercicio 3 - Pilas*/
 void pushUsandoArray(char vecPila[], int& len, char valor) {
-    for (int i = len - 1; i >= 0; i--) {
+    for (int i = len - 1; i >= 0; i--) { //Voy al ultimo valor del array
         vecPila[i + 1] = vecPila[i];
     }
     vecPila[0] = valor;
@@ -746,7 +746,6 @@ void encolarUsandoPila(Nodo*& pila, int v) {
     while (pila != NULL) {
         push(pilaAux, pop(pila));
     }
-
     push(pilaAux, v);
  
     while (pilaAux != NULL) {
@@ -1547,7 +1546,7 @@ void generarListaConsejerosDocentes(candidato vecCandidatos[], int lenCan, resul
 
     for (int i = 0; i < 5; i++)
     {
-        vecResultado[i].pos = i + 1;
+        vecResultado[i].pos = (float)i + 1;
         vecResultado[i].cand = vecAuxiliar[i].cand;
         lenRes++;
     }

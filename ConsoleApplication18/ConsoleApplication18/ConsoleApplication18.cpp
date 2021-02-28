@@ -160,7 +160,6 @@ int main()
 	Nota: COLA y COLB dejan de ser útiles después del apareo.*/
 	cout << "----------------------------" << endl;
 	cout << "Ejercicio 5" << endl;
-	/*
 	NodoEstudiante* cfte1 = NULL;
 	NodoEstudiante* cfin1 = NULL;
 	NodoEstudiante* cfte2 = NULL;
@@ -196,5 +195,6 @@ int main()
 		cout << aux.nya << endl;
 		cout << aux.curso << endl;
 	}
+	/*
 	*/
 }
