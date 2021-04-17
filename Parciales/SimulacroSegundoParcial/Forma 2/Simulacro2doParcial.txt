@@ -1,0 +1,25 @@
+2do Parcial Algoritmos:
+
+---------------------------------
+
+(3 puntos) Se tiene un archivo “ventas.dat” que contiene los siguientes datos: número de cliente, artículo comprado, cantidad comprada y precio unitario. Con estos datos llenar una lista que debe contener número de cliente y dinero gastado. A su vez cada nodo de esa lista, va a poseer una sublista de los artículos comprados, junto con su cantidad comprada y precio unitario. Nota: El precio unitario para cada artículo no varía. Si el artículo se repite por cada cliente debe incrementarse su cantidad vendida.
+
+Informar:
+
+Cuál es el cliente que menos dinero gastó.
+Cuál es el cliente que más unidades totales de productos compró.
+Este ejercicio debe resolverse sí o sí en forma manuscrita. Colocar el DNI en la hoja de la resolución y sacarle una foto.
+
+---------------------------------
+
+(3 puntos) En el archivo “turnos20201031.dat” tenemos el listado de turnos de un consultorio para un día en particular. De los turnos sabemos la hora (integer) y el nombre del paciente. Ordenar la información contenida en el archivo por hora y colocarlo en una cola para que puedan ser llamados.
+
+---------------------------------
+
+(2 puntos)Desarrollar un procedimiento que permita ingresar caracteres por teclado. Si se ingresa una letra (A-Z) se inserta en la pila. Si se ingresa un asterisco se saca un elemento de la pila. Imprimir la secuencia de caracteres que se sacaron de la pila. El ingreso de caracteres termina cuando se ingresa un punto.
+
+Nota: El valor ascii de la A es 65 y el de la Z es 90.
+
+---------------------------------
+
+(2 puntos) Crear un procedimiento que dadas dos listas A y B, llene una lista C con la unión (sin repetidos) de las listas A y B.

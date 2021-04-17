@@ -1,0 +1,44 @@
+Corte de Control:
+
+- estrategia de resolucion para varios tipos de problemas
+- tiene que existir un problema cuyos datos estan agrupados por un discriminador, a partir de este se hace el corte de control
+- mientras leo el archivo, debo mantener una variable de corte
+
+ejemplo practico:
+leyendo un archivo agrupado por nacionalidad, deberia leer inicialmente el archivo, setear el corte, y comenzar un loop !feof(archivo)
+dentro del loop, mientras no cambie la nacionalidad voy a acumular los datos de ese grupo para la razon que requiera
+una vez que finaliza el loop, exploto los datos e inicializo las variables de nuevo preparando para el proximo flujo.
+
+
+Union de Vectores: burbujeo en ambos vectores + insertar ordenado
+=================================================================================================================================================================================
+
+Ejercitacion parcial:
+
+/**
+ * Punto 2:
+ *
+ * Se tiene un archivo “notas.dat” (250 registros como máximo) que contiene los siguientes datos: número de legajo, nombre de materia, código de curso y nota (número decimal). El nombre de materia aparece solo 1 vez por estudiante. El archivo se encuentra ordenado por legajo. Se pide calcular:
+ *   Cuál es el promedio de cada estudiante e informar por pantalla.
+ *   Cuál es el estudiante que tiene mejor promedio (sólo hay 1 estudiante que cumple con este punto) e informar por pantalla.
+ *   Cuál fue el estudiante que obtuvo la peor nota (sólo hay 1 estudiante que cumple con este punto) e informar por pantalla.
+ *   Cuáles son las materias donde el estudiante aprobó (nota >= 6) y grabarlo en un archivo “aprobados.dat”, conteniendo el número de legajo, materia y código de curso.
+ */
+
+
+/**
+ * Punto 4:
+ * Se tienen dos archivos (“suc1.dat” y “suc2.dat” - máximo 50 registros c/u) con los datos de las ventas de dos sucursales de la ferretería “El tornillo feliz”.
+ * Los archivos contienen el código de artículo, la descripción del artículo, la cantidad vendida y el precio unitario.
+ * Es posible que algunos artículos hayan sido vendidos en una sucursal y no en la otra.
+ * Se pide informar los 3 artículos más vendidos y cuál fue la sucursal que más dinero recaudó.
+ * 
+ * nota: la unica dificultad pareceria ser informando los 3 articulos mas vendidos.
+ */
+ 
+ Solucion:
+ - para los 3 mas vendidos, guardamos todos los registros en un array, aplicamos un burbujeo custom, y mostramos los 3 ultimos (si ordenamos de menor a mayor)
+ - Utiliza implementacion customizada de los metodos de array, por ejemplo: busqueda sequencial o burbujeo
+ - para guardar cual fue la sucursal que mas vendio, se mantiene una variable unica a cada sucursal mientras leemos el archivo, que va agregando los resultados.
+ 
+ 
